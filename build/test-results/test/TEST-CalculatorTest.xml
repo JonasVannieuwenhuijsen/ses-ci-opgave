@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-05-02T16:21:30" hostname="DESKTOP-D14ESIJ" time="0.01">
+  <properties/>
+  <testcase name="bereken_met_1negatief_getal" classname="CalculatorTest" time="0.008"/>
+  <testcase name="bereken_met_2negatieve_getallen" classname="CalculatorTest" time="0.0"/>
+  <testcase name="bereken_normaal" classname="CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
