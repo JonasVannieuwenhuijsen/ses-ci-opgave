@@ -4,4 +4,7 @@ jdk:
   - openjdk13
 
 install:
+  - ./gradlew assemble
+
+script:
   - ./gradlew check
