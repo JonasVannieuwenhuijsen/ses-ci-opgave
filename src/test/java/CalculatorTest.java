@@ -23,7 +23,7 @@ public class CalculatorTest {
     @Test
     public void bereken_met_2negatieve_getallen(){
 
-        int resultaat = Calculator.bereken(-4,-6);
+        int resultaat = Calculator.bereken(-4,-5);
 
         assertThat(resultaat,is(-9));
     }
